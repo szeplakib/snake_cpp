@@ -3,3 +3,5 @@ This snake application uses the windows.h header to manipulate the command line 
 
 You can easily compile this small project with mingw64 g++:
 `g++ main.cpp Snake.cpp -o snake.exe`
+
+You can navigate the snake with the arrow buttons. Avoid the edges, and your snake itself.
